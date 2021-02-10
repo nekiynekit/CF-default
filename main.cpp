@@ -14,7 +14,7 @@
 using namespace std;
 
 void solve(){
-    cout << "lol" << endl;
+    
 }
 
 signed main(){
