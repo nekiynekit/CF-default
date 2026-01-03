@@ -14,7 +14,9 @@
 using namespace std;
 
 void solve(){
-    
+    string s;
+    cin >> s;
+    cout << s << endl;
 }
 
 signed main(){
@@ -23,7 +25,7 @@ signed main(){
     cin.tie();
     cout.tie();
 
-    int n = 1; //cin >> n;
+    int n = 1; cin >> n;
     while (n--) solve();
 
     return 0;
